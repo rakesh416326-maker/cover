@@ -164,7 +164,9 @@ Publish the website in the LocalHost.
 
 ~~~
 ## OUTPUT:
-<img width="1722" height="897" alt="image" src="https://github.com/user-attachments/assets/e39acb5f-237a-4388-8f31-50230838d971" />
+<img width="1171" height="608" alt="image" src="https://github.com/user-attachments/assets/34c4cfd0-05d4-44f4-8bf1-7c15aa637c6b" />
+
+
 
 
 
